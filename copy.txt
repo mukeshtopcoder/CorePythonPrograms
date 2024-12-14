@@ -1,0 +1,4 @@
+# Temp File
+This is a temporary file used in File Handling Questions.
+# We are using this file in file handling for read and counting lines from it.
+This text is append by Question no 53
